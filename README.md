@@ -12,11 +12,10 @@
 
 ### Analytical skills
 - Machine learning
-- Data Analysis
 - Deep learning
-- Linear algebra
-- Ordinary and Partial Differential equations
+- Data Analysis
 - Data Visualization
+- Linear algebra
 - Statistical analysis
 
 ### Software and Languages
