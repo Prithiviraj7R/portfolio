@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Professional Experience
+## Professional Experience
 **Machine Learning Intern | Techconative, Chennai, India | May 2024 - Jul 2024**
 * Developed a chatbot for answering natural language-based user questions on website analytics and integrated Google Analytics for querying relevant data.
 * Tuned the prompt for adding guardrails and implemented query cache for reducing API cost.
@@ -15,7 +15,7 @@
 * Executed personalized campaigns for three different third-party products, driving product sales through tailored strategies.
 * **Tools and frameworks used:** SAS, SAS EMiner, MS Excel.
 
-### Projects
+## Projects
 
 **Thermal Compensation in Machine Tools | Oct 2023 - Mar 2024**
 * **Guided by Dr. Sivasrinivasu Devadula**
@@ -36,3 +36,25 @@
 * Integrated TMDB API and streamlit for deployment and providing movie information based on user input.
 * **Tools and frameworks used:** Langchain, OpenAI, Huggingface, Streamlit.
 
+
+## Skills
+
+* **Analytical skills:** Machine learning, Data Analysis, Deep learning, Linear algebra, Ordinary and Partial Differential equations, Data Visualization, Statistical analysis
+* **Softwares and Languages:** Python, C++, C, SQL, PyTorch, Tensorflow, Langchain, Langsmith, Matlab and Simulink, SAS, SAS EMiner, MS Office
+
+## Education
+
+* **B.Tech in Mechanical Engineering & Interdisciplinary M.Tech in Data Science**
+    * Indian Institute of Technology Madras, Chennai, India
+    * CGPA: 9.44/10
+    * Year of Completion: 2025
+
+## Areas of Interest
+
+* Applications of Deep learning and Generative AI
+* Natural Language Processing and Recommendation systems
+* Data Analysis and Visualization 
+
+## Extra-Curricular Activities
+* Member of National Sports Organization (NSO) frisbee in IIT Madras.
+* Writing blog posts on medium ([Profile](https://medium.com/@prithiviraj7r))
